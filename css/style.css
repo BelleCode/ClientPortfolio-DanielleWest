@@ -22,10 +22,8 @@ body {
     background-repeat: no-repeat;
     background-position: fixed;
     background-size: cover;
-    background-color: rgba(138, 192, 216, 5);
-    background-image: url("/img/DanielleWestLarge.png");
+    background-color: #F5AAC1;
     min-height: 400px;
-    margin-top: 3rem;
 
     /* background-image: radial-gradient(circle 827px at 47.3% 48%, rgba(255, 255, 255, 1) 0%, rgba(138, 192, 216, 1) 90%); */
 }
