@@ -43,7 +43,9 @@ body {
 @media only screen and (min-width: 992px) {
     .header {
         background-image: url("/img/DanielleWestLarge.png");
+        background-repeat: no-repeat;
         min-height: 400px;
+        background-size: cover;
         margin-top: 3rem;
     }
 }
@@ -52,6 +54,8 @@ body {
 @media only screen and (min-width: 576px) and (max-width: 991px) {
     .header {
         background-image: url("/img/DanielleWestSmall.png");
+        background-repeat: no-repeat;
+        background-size: cover;
         margin-top: 3rem;
     }
 }
